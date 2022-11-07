@@ -1,3 +1,3 @@
 # DAV2022
-code for DAV project, 2022. 
-by UCLA freshmen Sourish Saswade, George Zhou, Marvin Mok
+code for DAV Lab 1, 2022. 
+by UCLA students Sourish Saswade, George Zhou, Marvin Mok
