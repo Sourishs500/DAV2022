@@ -1,0 +1,1 @@
+Add all the .sv files to the project when opening the project. make sure the files contain all the .sv files in this folder and nothing else
